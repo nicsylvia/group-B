@@ -15,3 +15,13 @@
     color: white;
     font-family:cursive;
 }
+.bg{
+    background: linear-gradient(to right, #fae8e8, #cdebfd  );
+    text-align: center;
+}
+.habeeb{
+    color: black;
+    background: linear-gradient(to right, #cdebfd , #fae8e8 );
+    font-family: fantasy;
+    font-style: bold;
+}
