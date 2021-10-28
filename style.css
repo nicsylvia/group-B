@@ -1,0 +1,17 @@
+.sylvia{
+    background-color: magenta;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.sylvia > h3{
+    text-align: center;
+    color: black;
+}
+
+.valerian{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-family:cursive;
+}
