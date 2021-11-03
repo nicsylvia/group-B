@@ -1,0 +1,40 @@
+.sylvia{
+    background-color: magenta;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.sylvia > h3{
+    text-align: center;
+    color: black;
+}
+
+.valerian{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-family:cursive;
+}
+.bg{
+    background: linear-gradient(to right, #fae8e8, #cdebfd  );
+    text-align: center;
+}
+.habeeb{
+    color: black;
+    background: linear-gradient(to right, #cdebfd , #fae8e8 );
+    font-family: fantasy;
+    font-style: bold;
+}
+
+.quazy{
+    color: green;
+    background-color: red;
+    font-family: fantasy;
+    font-style: bold;
+}
+
+.ramdy{
+    background: linear-gradient(to right, #cdebfd , #fae8e8 );
+    font-family: fantasy;
+    font-style: bold;
+}
