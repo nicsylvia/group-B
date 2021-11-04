@@ -2,6 +2,7 @@
     background-color: magenta;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+    font-style: italic;
 }
 
 .sylvia > h3{
@@ -27,14 +28,16 @@
 }
 
 .quazy{
-    color: green;
+    color: white;
     background-color: red;
-    font-family: fantasy;
+    font-family: verdana;
     font-style: bold;
+    text-align: center;
 }
 
 .ramdy{
     background: linear-gradient(to right, #cdebfd , #fae8e8 );
-    font-family: fantasy;
+    font-family: verdana;
     font-style: bold;
+    color: black;
 }
